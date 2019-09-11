@@ -1,2 +1,4 @@
-# mt4113-2019-base-prac
-Base repo for MT4113-2019 practical
+# MT4113 Git Practical 
+
+This repository is shared between your team members and with the module coordinator. 
+
