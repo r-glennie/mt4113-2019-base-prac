@@ -8,3 +8,4 @@ cube <- function(x) {
   y <- x * x * x 
   return(y)
 } 
+testing <- 1 
